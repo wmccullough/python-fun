@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="60" tilewidth="16" tileheight="16" nextobjectid="4">
+ <tileset firstgid="1" name="newtileset" tilewidth="16" tileheight="16">
+  <image source="newtileset.png" width="256" height="512"/>
+ </tileset>
+ <layer name="Terrain" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKwjAQBdCcQWjBe6gnkK5cqhvvfw8jtJBFa2mEgNP34JNFKMxvKGlKAAAAAOzdKef8Yy7Np653zTnkHMe1JkPzqetNfbemfD+35lPXm+vbLaQf12jn26X53uVetL7fErHvXs+3T843Qt/yftny/X6e+8e+S3drtP+Ne85jJa+V/WfzqQEAAAAAACC+N4XaGyA=
+  </data>
+ </layer>
+ <layer name="Detail1" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJADAMA0Hvv60zQRZI4SpgcVeqEnwVAAAAAABperixk77ZXi3P9xcAAAAAAAAAJLgdxQWo
+  </data>
+ </layer>
+ <objectgroup name="Entities">
+  <object id="1" gid="240" x="400" y="368"/>
+  <object id="2" gid="239" x="544" y="320"/>
+  <object id="3" gid="230" x="480" y="384"/>
+ </objectgroup>
+</map>
